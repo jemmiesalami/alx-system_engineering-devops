@@ -1,3 +1,4 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-vi "Best School"
+vi \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+i "Best School"
+
